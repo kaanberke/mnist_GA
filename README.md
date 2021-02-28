@@ -20,7 +20,7 @@ tensorflow==2.2
 
 ## Getting Started
 
-Download a python interpeter preferable a version beyond 3.0. Install the prerequisute libraries given above,and make sure you have the correct version of **TensorFlow**. Also certain hardware and software requirements like good **Nvidia GPU** and **(CUDA+CUDNN)** respectively are required. Then run genetic.py in your system to train the model and save it. Then run predict.py to see the output in the format given below.
+Download a python interpreter preferable a version above 3.0. Install the prerequisite libraries given above,and make sure you have the correct version of **TensorFlow**. Also certain hardware and software requirements like good **Nvidia GPU** and **(CUDA+CUDNN)** respectively are required. Then run genetic.py in your system to train the model and save it. Then run predict.py to see the output in the format given below.
 
 ```
 $ genetic.py
